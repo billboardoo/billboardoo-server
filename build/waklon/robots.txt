@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /new
+Disallow: /tags
+Disallow: /player
+Disallow: /credit
+Disallow: /company

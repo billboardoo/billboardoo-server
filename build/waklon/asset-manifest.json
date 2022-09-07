@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efe7812c.css",
+    "main.js": "/static/js/main.ad2bd598.js",
+    "static/js/787.a84793b0.chunk.js": "/static/js/787.a84793b0.chunk.js",
+    "static/media/Pretendard.otf": "/static/media/Pretendard.d9d42f1059dbff0248a3.otf",
+    "static/media/wakgood.png": "/static/media/wakgood.e651be19891d3cbe1c6b.png",
+    "static/media/logo.png": "/static/media/logo.d33d1b8f3c4dfd6254e3.png",
+    "index.html": "/index.html",
+    "main.efe7812c.css.map": "/static/css/main.efe7812c.css.map",
+    "main.ad2bd598.js.map": "/static/js/main.ad2bd598.js.map",
+    "787.a84793b0.chunk.js.map": "/static/js/787.a84793b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efe7812c.css",
+    "static/js/main.ad2bd598.js"
+  ]
+}

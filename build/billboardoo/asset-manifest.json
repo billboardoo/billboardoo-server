@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e793a25.css",
+    "main.js": "/static/js/main.2996a1c6.js",
+    "static/js/787.da1ee599.chunk.js": "/static/js/787.da1ee599.chunk.js",
+    "static/media/Pretendard.otf": "/static/media/Pretendard.d9d42f1059dbff0248a3.otf",
+    "static/media/viichan.png": "/static/media/viichan.00863a8ed4c9fce95776.png",
+    "static/media/jururu.png": "/static/media/jururu.b6457679fe7a1ec9fe30.png",
+    "static/media/hachikitachi.png": "/static/media/hachikitachi.09292589a3984196dace.png",
+    "static/media/cotton.png": "/static/media/cotton.c48d407c24e64816eac0.png",
+    "static/media/gomem.png": "/static/media/gomem.67dddd2ff23ca78528c5.png",
+    "static/media/isedol.png": "/static/media/isedol.392d635e7d8111608068.png",
+    "static/media/wak-enter.png": "/static/media/wak-enter.b9e28b5270848d2664d4.png",
+    "static/media/woowakgood.PNG": "/static/media/woowakgood.b58c5808c78d404b5f0b.PNG",
+    "index.html": "/index.html",
+    "main.2e793a25.css.map": "/static/css/main.2e793a25.css.map",
+    "main.2996a1c6.js.map": "/static/js/main.2996a1c6.js.map",
+    "787.da1ee599.chunk.js.map": "/static/js/787.da1ee599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e793a25.css",
+    "static/js/main.2996a1c6.js"
+  ]
+}

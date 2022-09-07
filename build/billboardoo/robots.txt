@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /albums
+Disallow: /graphs
+Disallow: /player
+Disallow: /news
+Disallow: /credit
+Disallow: /company
+Disallow: /ee
