@@ -1,0 +1,29 @@
+{
+  "name": "billboardoo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.19.1",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.1",
+    "express": "~4.16.1",
+    "express-session": "^1.17.2",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.16",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-naver": "^1.0.6",
+    "passport-twitch-new": "0.0.2",
+    "pug": "2.0.0-beta11",
+    "request": "^2.88.2",
+    "sqlite3": "^5.0.2",
+    "vhost": "^3.0.2"
+  }
+}
